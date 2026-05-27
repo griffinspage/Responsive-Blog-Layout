@@ -225,7 +225,11 @@ footer {
     text-align: center;
     padding: 25px;
 }
-
+#margin-blog {
+    margin-left: 50px;
+    background: linear-gradient(135deg, #1e3c72,#2a5298);
+    color: white;
+}
 
 
 /* Articles Layout */
